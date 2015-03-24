@@ -13,7 +13,7 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Toast.makeText(MainActivity.this, "Toast done by deepak", Toast.LENGTH_LONG).show();
+        Toast.makeText(MainActivity.this, "Toast done by srikanth", Toast.LENGTH_LONG).show();
     }
 
 
